@@ -6,7 +6,7 @@
 ![CS336](https://img.shields.io/badge/Stanford%20CS336-In%20Progress-8C1515?style=flat)
 ![Duke](https://img.shields.io/badge/MBA-Duke%20Fuqua-012169?style=flat)
 
-Principal TPM and product leader with 20+ years across Microsoft, T-Mobile, AWS, and Meta — working at the intersection of **large-scale API platforms**, **ML infrastructure**, and **ads monetization**. Currently deepening my ML foundations through Stanford CS336 (Language Modeling from Scratch) to stay sharp on the systems that power the products I ship.
+Principal TPM and product leader with 20+ years across Microsoft, T-Mobile, AWS, and Meta working at the intersection of **large-scale API platforms**, **ML infrastructure**, and **ads monetization**. Currently deepening my ML foundations through Stanford CS336 (Language Modeling from Scratch) to stay sharp on the systems that power the products I ship.
 
 ---
 
