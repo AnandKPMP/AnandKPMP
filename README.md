@@ -45,7 +45,7 @@ Most of my professional impact doesn't live in public repos — it lives in P&L 
 
 ## 🧠 Why I'm Writing Code in 2026
 
-> The most impactful TPMs I've seen — and the ones I try to be — can read a model training curve and know if it's a data problem or a learning rate problem. CS336 is how I close that gap. I'm not becoming an MLE; I'm becoming the TPM who can sit in the room with MLEs and actually help.
+> The most impactful TPMs I've seen and the ones I try to be can read a model training curve and know if it's a data problem or a learning rate problem. CS336 is how I close that gap. I'm not becoming an MLE; I'm becoming the TPM who can sit in the room with MLEs and actually help.
 
 ---
 
