@@ -26,7 +26,7 @@ Self-studying Percy Liang & Tatsunori Hashimoto's graduate course on building LL
 
 ### 📡 machine-learning-for-telecommunications
 
-AWS SageMaker framework for end-to-end ML on telecom network data (IPDR records) — churn prediction, anomaly detection, feature engineering at scale. Forked from the AWS Solutions Library and used as a foundation for applied work during my time at T-Mobile, where ML-driven network traffic prediction fed into data center capacity planning 2 years ahead, resulting in $200M in capex savings across a 100M+ subscriber network.
+AWS SageMaker framework for end-to-end ML on telecom network data (IPDR records), churn prediction, anomaly detection, feature engineering at scale. Forked from the AWS Solutions Library and used as a foundation for applied work during my time at T-Mobile, where ML-driven network traffic prediction fed into data center capacity planning 2 years ahead, resulting in $200M in capex savings across a 100M+ subscriber network.
 
 ---
 
