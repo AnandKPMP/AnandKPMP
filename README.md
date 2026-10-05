@@ -32,7 +32,7 @@ AWS SageMaker framework for end-to-end ML on telecom network data (IPDR records)
 
 ## 🏗️ Career Work Context
 
-Most of my professional impact doesn't live in public repos — it lives in P&L lines and shipped systems. But understanding how things work technically has always been the leverage point:
+Most of my professional impact doesn't live in public repos, it lives in P&L lines and shipped systems. But understanding how things work technically has always been the leverage point:
 
 | Where | What I drove | Scale |
 |---|---|---|
